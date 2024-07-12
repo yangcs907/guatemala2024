@@ -1,0 +1,20 @@
+body {
+    background-color: #faf9f6;
+    margin: 0px;
+    color: #54585A;
+}
+
+header {
+    /* height: 300px;
+    background-image: url("../images/header.jpg");
+    background-size: cover; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    font-family: 'Avenir', sans-serif;
+    margin: 0px;
+    padding: 20px;
+}
