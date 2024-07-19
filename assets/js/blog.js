@@ -23,7 +23,7 @@ const blogPosts = [
         `,
         images: [
             {
-                src: "thyStudents.jpg",
+                src: "thyStudents.JPG",
                 caption: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit"
             },
             {
@@ -47,7 +47,7 @@ const blogPosts = [
         `,
         images: [
             {
-                src: "thyStudents.jpg",
+                src: "thyStudents.JPG",
                 caption: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit"
             },
             {
@@ -71,7 +71,7 @@ const blogPosts = [
         `,
         images: [
             {
-                src: "thyStudents.jpg",
+                src: "thyStudents.JPG",
                 caption: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit"
             },
             {
