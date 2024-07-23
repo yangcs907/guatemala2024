@@ -112,4 +112,13 @@ const generateBlogPosts = () => {
     })
 };
 
-generateBlogPosts();
+const generateEmpty = () => {
+    const displayMessage = document.createElement("p");
+    displayMessage.className = "displayMessage";
+    displayMessage.innerHTML = "Check back shortly!";
+    document.getElementById("blogContainer").append(displayMessage);
+    document.getElementById("footer").style = "display: none";
+}
+
+// generateBlogPosts();
+generateEmpty();

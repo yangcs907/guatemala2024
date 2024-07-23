@@ -269,6 +269,11 @@ nav a:hover {
     }
 }
 
+.displayMessage {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
 footer {
     font-family: 'Poppins', sans-serif;
     bottom: 0;
