@@ -23,6 +23,7 @@ const blogPosts = [
             Upon arrival at the Casa around seven o'clock, we were met with a warm dinner and 
             wonderful rooming.
         `,
+        signature: "Luisa + team",
         images: [
             {
                 src: "day1.1.jpg",
@@ -57,6 +58,9 @@ const generateBlogPosts = () => {
         const blogContent = document.createElement("div");
         blogContent.className = "blogContent";
         blogContent.innerHTML = `<p>${post.content}</p>`;
+        const blogSignature = document.createElement("p");
+        blogSignature.className = "blogSignature";
+        blogSignature.innerHTML = `<p>- ${post.signature}</p>`;
         const blogImages = document.createElement("div");
         post.images.map(image => {
             const img = document.createElement("img");
@@ -69,7 +73,7 @@ const generateBlogPosts = () => {
         blogDivider.className = "blogDivider";
         blogDivider.innerHTML = "-------◆◆◆-------";
         blogImages.className = "blogImages";
-        blogPost.append(blogDate, blogTitle, blogContent, blogImages, blogDivider);
+        blogPost.append(blogDate, blogTitle, blogContent, blogSignature, blogImages, blogDivider);
         document.getElementById("blogContainer").prepend(blogPost);
     })
 };

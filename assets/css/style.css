@@ -232,6 +232,11 @@ nav a:hover {
 .blogTitle {
     font-size: 1.5em;
 }
+.blogSignature {
+    font-family: 'Shadows Into Light Two', cursive;
+    text-align: right;
+    font-size: 1.2em;
+}
 .blogImages img {
     width: 100%;
     border-radius: 10px;
