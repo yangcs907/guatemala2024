@@ -9,76 +9,38 @@
 // }
 const blogPosts = [
     {
-        date: "September 7th 1875",
-        title: "Lorem ipsum",
+        date: "Wednesday, July 24th, 2024",
+        dayNumber: "Day 1",
+        title: "Arrival in Guatemala",
         content: `
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna 
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
-        ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit 
-        esse cillum dolore eu fugiat nulla pariatur. Excepteur 
-        sint occaecat cupidatat non proident, sunt in culpa qui 
-        officia deserunt mollit anim id est laborum.
+            Thanks be to God that we experienced minimal difficulty in the boarding process.
+            At the airport in Guatemala City, we met with Mr. Herman Alb, and were able to give
+            him the medicine Mr. Thy brought.
+            Although the trip from the airport to Escuintla was a journey for the ages, we were 
+            able to stop by a local restaraunt Pollo Campero for a quick lunch; the Lord blessed 
+            us with abundant time to familarize ourselves with both each other and our main 
+            communication with the school, Sra. Kayla.
+            Upon arrival at the Casa around seven o'clock, we were met with a warm dinner and 
+            wonderful rooming.
         `,
         images: [
             {
-                src: "thyStudents.JPG",
-                caption: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit"
+                src: "day1.1.jpg",
+                caption: "Nuestro grupo en el aeropuerto"
             },
             {
-                src: "chrisHeadShot.jpg",
-                caption: "Et harum quidem rerum facilis est et expedita distinctio"
-            }
-        ],
-    },
-    {
-        date: "September 7th 1875",
-        title: "Lorem ipsum",
-        content: `
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna 
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
-        ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit 
-        esse cillum dolore eu fugiat nulla pariatur. Excepteur 
-        sint occaecat cupidatat non proident, sunt in culpa qui 
-        officia deserunt mollit anim id est laborum.
-        `,
-        images: [
-            {
-                src: "thyStudents.JPG",
-                caption: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit"
+                src: "day1.2.jpg",
+                caption: "Nosotros en la fila por seguridad"
             },
             {
-                src: "chrisHeadShot.jpg",
-                caption: "Et harum quidem rerum facilis est et expedita distinctio"
-            }
-        ],
-    },
-    {
-        date: "September 8th 2065",
-        title: "Lorem",
-        content: `
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna 
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
-        ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit 
-        esse cillum dolore eu fugiat nulla pariatur. Excepteur 
-        sint occaecat cupidatat non proident, sunt in culpa qui 
-        officia deserunt mollit anim id est laborum.
-        `,
-        images: [
-            {
-                src: "thyStudents.JPG",
-                caption: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit"
+                src: "day1.3.jpg",
+                caption: "Almuerzo en Pollo Campero"
             },
             {
-                src: "chrisHeadShot.jpg",
-                caption: "Et harum quidem rerum facilis est et expedita distinctio"
-            }
-        ],
+                src: "day1.4.jpg",
+                caption: "Cena en la Casa"
+            },
+        ]
     }
 ];
 
@@ -91,7 +53,7 @@ const generateBlogPosts = () => {
         blogDate.innerHTML = `<p>${post.date}</p>`;
         const blogTitle = document.createElement("div");
         blogTitle.className = "blogTitle";
-        blogTitle.innerHTML = `<p>${post.title}</p>`;
+        blogTitle.innerHTML = `<p><span style="color:#4a86e8">${post.dayNumber}</span>: ${post.title}</p>`;
         const blogContent = document.createElement("div");
         blogContent.className = "blogContent";
         blogContent.innerHTML = `<p>${post.content}</p>`;
@@ -120,5 +82,5 @@ const generateEmpty = () => {
     document.getElementById("footer").style = "display: none";
 }
 
-// generateBlogPosts();
-generateEmpty();
+generateBlogPosts();
+// generateEmpty();
