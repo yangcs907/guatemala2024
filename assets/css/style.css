@@ -236,6 +236,7 @@ nav a:hover {
     font-family: 'Shadows Into Light Two', cursive;
     text-align: right;
     font-size: 1.2em;
+    font-weight: bold;
 }
 .blogImages img {
     width: 100%;
