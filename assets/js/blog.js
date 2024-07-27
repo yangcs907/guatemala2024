@@ -171,8 +171,20 @@ const blogPosts = [
                 caption: "Albert and Pastor Nicholas serving lunch to the students"
             },
             {
+                src: "day3.9.4.jpg",
+                caption: "Pastor Nicholas with a student during lunch service"
+            },
+            {
                 src: "day3.9.5.jpg",
                 caption: "Pastor Nicholas on a ladder during the afternoon devotional"
+            },
+            {
+                src: "day3.9.6.jpg",
+                caption: "Afternoon devotional for faculty and staff"
+            },
+            {
+                src: "day3.9.7.jpg",
+                caption: "Thy with some faculty and staff"
             },
             {
                 src: "day3.10.jpg",
