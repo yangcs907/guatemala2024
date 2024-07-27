@@ -119,6 +119,82 @@ const blogPosts = [
                 caption: "Home visitations: Pastor Nicholas, Albert, and Chris visiting the home of Francesca (left middle) and her daughter Caroline (middle)"
             },
         ]
+    },
+    {
+        date: "Friday, July 26th, 2024",
+        dayNumber: "Day 3",
+        title: "Pastor Nick on a Ladder",
+        content: `
+            The Lord is good! We had a fantastic day, beginning with leading the high schoolers in worship and Pastor
+            Nicholas once again entertained the crowd with a lovely devotional about Zacchaeus. Additonally, Mr. Thy
+            specifically took to the city to buy us supplies for his upcoming cooking plans. Afterwards, we helped
+            serve lunch in the cafeteria by handing out meal components (like fruit snacks, courtesy of Mr. Thy) to the
+            children. In this time, we were able to engage with some of the kids, like taking pictures and talking to 
+            them. Soon after lunch in the Casa, Pastor Nicholas led another devotional for the faculty and staff at Maná
+            de Vida, this time on Martha and Mary. Then, we came back to the Casa once more to work on the prayer garden; 
+            although the work was arduous, the team had fun moving rocks from the garden wall. This work ended at around
+            five o'clock, which gave us time to interact with some new guests at the Casa. Three siblings on their way to
+            a retreat were able to stay and eat with us, and also sing worship songs in Spanish after dinner.
+        `,
+        signature: "Luisa + team",
+        images: [
+            {
+                src: "day3.1.jpg",
+                caption: "Pastor Nicholas giving a devotional to the students"
+            },
+            {
+                src: "day3.3.jpg",
+                caption: "Students worshiping together"
+            },
+            {
+                src: "day3.4.jpg",
+                caption: "Luisa, Chris and Joseph leading the students in a time of worship"
+            },
+            {
+                src: "day3.5.jpg",
+                caption: "Group selfie with some students during lunch"
+            },
+            {
+                src: "day3.6.jpg",
+                caption: "Group selfie with some students during lunch"
+            },
+            {
+                src: "day3.7.jpg",
+                caption: "Kayla (one of our main coordinators), Joseph, Luisa, Chris, Yuchen, Albert and Pastor Nicholas during lunch serving"
+            },
+            {
+                src: "day3.8.jpg",
+                caption: "Serving lunch to the students"
+            },
+            {
+                src: "day3.9.jpg",
+                caption: "Albert and Pastor Nicholas serving lunch to the students"
+            },
+            {
+                src: "day3.9.5.jpg",
+                caption: "Pastor Nicholas on a ladder during the afternoon devotional"
+            },
+            {
+                src: "day3.10.jpg",
+                caption: "Shoveling dirt and rocks for the prayer garden wall"
+            },
+            {
+                src: "day3.11.jpg",
+                caption: "Joseph, Chris and Yuchen hard at work"
+            },
+            {
+                src: "day3.12.jpg",
+                caption: "Thy joining in on a dance with the students"
+            },
+            {
+                src: "day3.13.jpg",
+                caption: "Joseph and Luisa playing foosball with our guests for the evening"
+            },
+            {
+                src: "day3.14.jpg",
+                caption: "Post dinner chat and hangout with our guests"
+            },
+        ]
     }
 ];
 
