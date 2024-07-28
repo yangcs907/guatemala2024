@@ -207,6 +207,117 @@ const blogPosts = [
                 caption: "Post dinner chat and hangout with our guests"
             },
         ]
+    },
+    {
+        date: "Saturday, July 27th, 2024",
+        dayNumber: "Day 4",
+        title: "Hosting the students at the Casa, and fun adventures at the mall",
+        content: `
+            Once again, thanks be to God! The day started bright and early with Mr. Thy's honest and touching
+            testimony while we ate breakfast prepared by him and the staff. About seventy students arrived soon
+            after, separated into four groups as to participate in four different activities; games with Albert
+            and Yuchen, prayer with Pastor Nicholas and Mr. Bruce, worship with Chris, Joseph, and Luisa, and
+            finally, writing cards with school faculty. Mr. Thy cooked a huge meal of Chinese cuisine for all our
+            visitors, and the team got to sit at various tables to interact with the youth. In the afternoon, we
+            helped the montessori class with their shelves by sanding down individual blocks of wood. To relax,
+            members of our group went out to the Interplaza mall nearby in Escuintla. At the mall, we walked around 
+            and went into several shops (especially technology ones, unfortunately 😅), and then finally ate at a
+            bakery-restaurant called San Martin for dinner and a place named Sarita for dessert. The experience
+            allowed us to see Guatemala in a less restricted environment, and we enjoyed the short time away from
+            the Casa. Afterwards, we almost got lost on the way back, but thankfully God brought us back safely 😁🙏. 
+            <br></br>
+            We are looking forward to tomorrow, as we are headed to Antigua! 
+        `,
+        signature: "Luisa + team",
+        images: [
+            {
+                src: "day4.1.jpg",
+                caption: "Worship station with students at the Casa"
+            },
+            {
+                src: "day4.2.jpg",
+                caption: "Pastor Nicholas and Bruce leading prayer at the Casa"
+            },
+            {
+                src: "day4.3.jpg",
+                caption: "Albert with students playing foosball"
+            },
+            {
+                src: "day4.4.jpg",
+                caption: "Luisa and some students playing mobile games"
+            },
+            {
+                src: "day4.5.jpg",
+                caption: "Students relaxing and playing jenga"
+            },
+            {
+                src: "day4.6.jpg",
+                caption: "Some students stacking jenga pieces"
+            },
+            {
+                src: "day4.7.jpg",
+                caption: "Luisa with a student on a bean bag couch"
+            },{
+                src: "day4.8.jpg",
+                caption: "Thy in the kitchen preparing lunch"
+            },
+            {
+                src: "day4.9.jpg",
+                caption: "Preparing to serve the lunch"
+            },
+            {
+                src: "day4.10.jpg",
+                caption: "Students at the Casa enjoying lunch prepared by Thy"
+            },
+            {
+                src: "day4.12.jpg",
+                caption: "Sanding down wood blocks for the montessori class"
+            },
+            {
+                src: "day4.13.jpg",
+                caption: "Diligently working on sanding down the wood blocks"
+            },
+            {
+                src: "day4.14.jpg",
+                caption: "Joseph and Luisa hard at work"
+            },
+            {
+                src: "day4.15.jpg",
+                caption: "Chris preparing to throw a football to some students in the field"
+            },
+            {
+                src: "day4.16.jpg",
+                caption: "Ball in mid flight"
+            },
+            {
+                src: "day4.17.jpg",
+                caption: "Chris attempting to catch a football thrown by one of the students"
+            },
+            {
+                src: "day4.18.jpg",
+                caption: "Group picture at the Casa with some students"
+            },
+            {
+                src: "day4.19.jpg",
+                caption: "Inside the Interplaza Mall in Escuintla"
+            },
+            {
+                src: "day4.20.jpg",
+                caption: "Yuchen purchasing a pair of slippers in the mall"
+            },
+            {
+                src: "day4.21.jpg",
+                caption: "Dinner at San Martin inside of the Interplaza Mall"
+            },
+            {
+                src: "day4.21.5.jpg",
+                caption: "Thy with a delicious looking sundae from Sarita"
+            },
+            {
+                src: "day4.22.jpg",
+                caption: "Dessert picture with treats from Sarita"
+            }
+        ]
     }
 ];
 
