@@ -318,6 +318,85 @@ const blogPosts = [
                 caption: "Dessert picture with treats from Sarita"
             }
         ]
+    },
+    {
+        date: "Sunday, July 28th, 2024",
+        dayNumber: "Day 5",
+        title: "Sunday service at the Casa, and adventures in Antigua",
+        content: `
+            Glory to the Father, Pastor Nicholas taught our sermon for this fine Sunday! He preached on serving
+            through the story of Mary and Martha, a lesson we all appreciated. We went to Antigua as soon as the
+            bus arrived, first going to get lunch at a pretty restaurant with a friend of the Renner's. After our
+            delicious meal, we went to the marketplace, heading almost immediately to the stall of Nellie, a 
+            supporter of the missions in Guatemala. Everyone bought a little something, and we all had great fun
+            shopping and watching Pastor Nicholas be a great negotiator of prices. Our visit to the artisan's 
+            market was followed by a restful evening back in the Casa, although Chris, Mr. Thy, and Yuchen went 
+            with Marco, an affiliate of Maná, to a seafood restaurant called Cevichito for dinner. This Sabbath's rest is most
+            definitely preparing us for tomorrow's work!
+        `,
+        signature: "Luisa + team",
+        images: [
+            {
+                src: "day5.0.9.jpg",
+                caption: "Hosting our own Sunday morning service at the Casa"
+            },
+            {
+                src: "day5.1.5.jpg",
+                caption: "Pastor Nicholas posing in front of the volcano Fuego"
+            },
+            {
+                src: "day5.1.jpg",
+                caption: "Team picture in front of the volcano Fuego"
+            },
+            {
+                src: "day5.2.jpg",
+                caption: "The volcano Fuego"
+            },
+            {
+                src: "day5.3.jpg",
+                caption: "Sacred site where lava flowed down from the 2018 eruption of Fuego"
+            },
+            {
+                src: "day5.4.jpg",
+                caption: "Brunch at Antigua"
+            },
+            {
+                src: "day5.5.jpg",
+                caption: "A plate of delicious tacos from brunch at Antigua"
+            },
+            {
+                src: "day5.6.jpg",
+                caption: "Brunch at Antigua"
+            },
+            {
+                src: "day5.7.jpg",
+                caption: "On our way to the handmade market at Antigua"
+            },
+            {
+                src: "day5.8.jpg",
+                caption: "Inside the market at Antigua"
+            },
+            {
+                src: "day5.9.jpg",
+                caption: "Chris and Joseph at the market in front of a bunch of handmade goods"
+            },
+            {
+                src: "day5.10.jpg",
+                caption: "Team picture at the market in Antigua"
+            },
+            {
+                src: "day5.11.jpg",
+                caption: "Thy trying to hitch a ride off the side of the road"
+            },
+            {
+                src: "day5.12.jpg",
+                caption: "Joseph and Luisa with some guests at the Casa"
+            },
+            {
+                src: "day5.13.jpg",
+                caption: "Chris, Thy and Yuchen at Cevichito with Marco"
+            },
+        ]
     }
 ];
 
