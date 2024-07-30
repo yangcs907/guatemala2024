@@ -337,85 +337,6 @@ const blogPosts = [
         signature: "Luisa + team",
         images: [
             {
-                src: "day5.0.9.jpg",
-                caption: "Hosting our own Sunday morning service at the Casa"
-            },
-            {
-                src: "day5.1.5.jpg",
-                caption: "Pastor Nicholas posing in front of the volcano Fuego"
-            },
-            {
-                src: "day5.1.jpg",
-                caption: "Team picture in front of the volcano Fuego"
-            },
-            {
-                src: "day5.2.jpg",
-                caption: "The volcano Fuego"
-            },
-            {
-                src: "day5.3.jpg",
-                caption: "Sacred site where lava flowed down from the 2018 eruption of Fuego"
-            },
-            {
-                src: "day5.3.5.jpg",
-                caption: "Side of this mountain resembles a woman's face"
-            },
-            {
-                src: "day5.4.jpg",
-                caption: "Brunch at Antigua"
-            },
-            {
-                src: "day5.5.jpg",
-                caption: "A plate of delicious tacos from brunch at Antigua"
-            },
-            {
-                src: "day5.5.5.jpg",
-                caption: "D'Ann and Luisa sharing the plate of delicious tacos from brunch at Antigua"
-            },
-            {
-                src: "day5.6.jpg",
-                caption: "Brunch at Antigua"
-            },
-            {
-                src: "day5.7.jpg",
-                caption: "On our way to the handmade market at Antigua"
-            },
-            {
-                src: "day5.8.jpg",
-                caption: "Inside the market at Antigua"
-            },
-            {
-                src: "day5.9.jpg",
-                caption: "Chris and Joseph at the market in front of a bunch of handmade goods"
-            },
-            {
-                src: "day5.10.jpg",
-                caption: "Team picture at the market in Antigua"
-            },
-            {
-                src: "day5.11.jpg",
-                caption: "Thy trying to hitch a ride off the side of the road"
-            },
-            {
-                src: "day5.12.jpg",
-                caption: "Joseph and Luisa with some guests at the Casa"
-            },
-            {
-                src: "day5.13.jpg",
-                caption: "Chris, Thy and Yuchen at Cevichito with Marco"
-            },
-        ]
-    },
-    {
-        date: "Monday, July 29th, 2024",
-        dayNumber: "Day 6",
-        title: "",
-        content: `
-            
-        `,
-        signature: "Luisa + team",
-        images: [
-            {
                 src: "day5.0.8.jpg",
                 caption: "Sunday morning worship at the Casa"
             },
@@ -488,7 +409,86 @@ const blogPosts = [
                 caption: "Chris, Thy and Yuchen at Cevichito with Marco"
             },
         ]
-    }
+    },
+    // {
+    //     date: "Monday, July 29th, 2024",
+    //     dayNumber: "Day 6",
+    //     title: "",
+    //     content: `
+            
+    //     `,
+    //     signature: "Luisa + team",
+    //     images: [
+    //         {
+    //             src: "day5.0.9.jpg",
+    //             caption: "Hosting our own Sunday morning service at the Casa"
+    //         },
+    //         {
+    //             src: "day5.1.5.jpg",
+    //             caption: "Pastor Nicholas posing in front of the volcano Fuego"
+    //         },
+    //         {
+    //             src: "day5.1.jpg",
+    //             caption: "Team picture in front of the volcano Fuego"
+    //         },
+    //         {
+    //             src: "day5.2.jpg",
+    //             caption: "The volcano Fuego"
+    //         },
+    //         {
+    //             src: "day5.3.jpg",
+    //             caption: "Sacred site where lava flowed down from the 2018 eruption of Fuego"
+    //         },
+    //         {
+    //             src: "day5.3.5.jpg",
+    //             caption: "Side of this mountain resembles a woman's face"
+    //         },
+    //         {
+    //             src: "day5.4.jpg",
+    //             caption: "Brunch at Antigua"
+    //         },
+    //         {
+    //             src: "day5.5.jpg",
+    //             caption: "A plate of delicious tacos from brunch at Antigua"
+    //         },
+    //         {
+    //             src: "day5.5.5.jpg",
+    //             caption: "D'Ann and Luisa sharing the plate of delicious tacos from brunch at Antigua"
+    //         },
+    //         {
+    //             src: "day5.6.jpg",
+    //             caption: "Brunch at Antigua"
+    //         },
+    //         {
+    //             src: "day5.7.jpg",
+    //             caption: "On our way to the handmade market at Antigua"
+    //         },
+    //         {
+    //             src: "day5.8.jpg",
+    //             caption: "Inside the market at Antigua"
+    //         },
+    //         {
+    //             src: "day5.9.jpg",
+    //             caption: "Chris and Joseph at the market in front of a bunch of handmade goods"
+    //         },
+    //         {
+    //             src: "day5.10.jpg",
+    //             caption: "Team picture at the market in Antigua"
+    //         },
+    //         {
+    //             src: "day5.11.jpg",
+    //             caption: "Thy trying to hitch a ride off the side of the road"
+    //         },
+    //         {
+    //             src: "day5.12.jpg",
+    //             caption: "Joseph and Luisa with some guests at the Casa"
+    //         },
+    //         {
+    //             src: "day5.13.jpg",
+    //             caption: "Chris, Thy and Yuchen at Cevichito with Marco"
+    //         },
+    //     ]
+    // }
 ];
 
 const generateBlogPosts = () => {
