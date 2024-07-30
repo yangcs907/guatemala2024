@@ -410,85 +410,145 @@ const blogPosts = [
             },
         ]
     },
-    // {
-    //     date: "Monday, July 29th, 2024",
-    //     dayNumber: "Day 6",
-    //     title: "",
-    //     content: `
-            
-    //     `,
-    //     signature: "Luisa + team",
-    //     images: [
-    //         {
-    //             src: "day5.0.9.jpg",
-    //             caption: "Hosting our own Sunday morning service at the Casa"
-    //         },
-    //         {
-    //             src: "day5.1.5.jpg",
-    //             caption: "Pastor Nicholas posing in front of the volcano Fuego"
-    //         },
-    //         {
-    //             src: "day5.1.jpg",
-    //             caption: "Team picture in front of the volcano Fuego"
-    //         },
-    //         {
-    //             src: "day5.2.jpg",
-    //             caption: "The volcano Fuego"
-    //         },
-    //         {
-    //             src: "day5.3.jpg",
-    //             caption: "Sacred site where lava flowed down from the 2018 eruption of Fuego"
-    //         },
-    //         {
-    //             src: "day5.3.5.jpg",
-    //             caption: "Side of this mountain resembles a woman's face"
-    //         },
-    //         {
-    //             src: "day5.4.jpg",
-    //             caption: "Brunch at Antigua"
-    //         },
-    //         {
-    //             src: "day5.5.jpg",
-    //             caption: "A plate of delicious tacos from brunch at Antigua"
-    //         },
-    //         {
-    //             src: "day5.5.5.jpg",
-    //             caption: "D'Ann and Luisa sharing the plate of delicious tacos from brunch at Antigua"
-    //         },
-    //         {
-    //             src: "day5.6.jpg",
-    //             caption: "Brunch at Antigua"
-    //         },
-    //         {
-    //             src: "day5.7.jpg",
-    //             caption: "On our way to the handmade market at Antigua"
-    //         },
-    //         {
-    //             src: "day5.8.jpg",
-    //             caption: "Inside the market at Antigua"
-    //         },
-    //         {
-    //             src: "day5.9.jpg",
-    //             caption: "Chris and Joseph at the market in front of a bunch of handmade goods"
-    //         },
-    //         {
-    //             src: "day5.10.jpg",
-    //             caption: "Team picture at the market in Antigua"
-    //         },
-    //         {
-    //             src: "day5.11.jpg",
-    //             caption: "Thy trying to hitch a ride off the side of the road"
-    //         },
-    //         {
-    //             src: "day5.12.jpg",
-    //             caption: "Joseph and Luisa with some guests at the Casa"
-    //         },
-    //         {
-    //             src: "day5.13.jpg",
-    //             caption: "Chris, Thy and Yuchen at Cevichito with Marco"
-    //         },
-    //     ]
-    // }
+    {
+        date: "Monday, July 29th, 2024",
+        dayNumber: "Day 6",
+        title: "Last full day at Maná!",
+        content: `
+            Thanks be to God for this Monday! Mrs. D'Ann began the day with a touching devotional about 
+            Psalm twenty-three in the Casa's prayer garden. Our group was then split off to visit classrooms;
+            Yuchen went to the computer lab once again to interact with the students through gaming while Chris,
+            Joseph, and Luisa taught the grade schoolers songs and dance outside. Albert and Mr. Thy were allowed
+            to wander around the campus to take pictures and pass out candy to all they came in contact with. 
+            Meanwhile, Pastor Nicholas led a devotion with the small group leaders. Following our respective
+            activities in the school, we continued to sand wood at the workshop but we finally glimpsed the project
+            we had been preparing for! A tray shelf! 😅 Pastor Nicholas and Jorge ended up completing our shelf by
+            the end of the day. Then, we had lunch at the Casa, and were sent out to interact with the children as
+            they were leaving. Joseph was able to give his gift to his sponsor child and talk with her at long last.
+            Marco came with his familiy to the Casa for dinner, so Chris, Joseph, and Luisa played games with Isabela,
+            his daughter. Our night together finished out with a cool card game called "ninety-nine" after dinner. We had such 
+            a fantastic last full day at Maná, and look forward to tomorrow's activities!
+        `,
+        signature: "Luisa + team",
+        images: [
+            {
+                src: "day6.1.jpg",
+                caption: "Psalm 46 on the wall of the prayer garden"
+            },
+            {
+                src: "day6.2.jpg",
+                caption: "Psalm 23 pictures on the wall of the prayer garden"
+            },
+            {
+                src: "day6.3.jpg",
+                caption: "Morning devotional led by D'Ann"
+            },
+            {
+                src: "day6.4.jpg",
+                caption: "Morning devotional led by D'Ann"
+            },
+            {
+                src: "day6.5.jpg",
+                caption: "Beautiful weather at the campus today"
+            },
+            {
+                src: "day6.6.jpg",
+                caption: "Yuchen helping a student at the computer lab class"
+            },
+            {
+                src: "day6.7.jpg",
+                caption: "Mario and Yuchen at the computer lab"
+            },
+            {
+                src: "day6.8.jpg",
+                caption: "Albert giving out candy to some students"
+            },
+            {
+                src: "day6.9.jpg",
+                caption: "Albert and Thy posing with students on the stairs"
+            },
+            {
+                src: "day6.10.jpg",
+                caption: "Albert handing out candy to students"
+            },
+            {
+                src: "day6.11.jpg",
+                caption: "Albert with some students"
+            },
+            {
+                src: "day6.12.jpg",
+                caption: "Luisa, Chris and Joseph leading students in song and dance"
+            },
+            {
+                src: "day6.13.jpg",
+                caption: "Luisa, Chris and Joseph leading students in song and dance"
+            },
+            {
+                src: "day6.14.jpg",
+                caption: "Students dancing along"
+            },
+            {
+                src: "day6.15.jpg",
+                caption: "Students doing 'Making Melodies in My Heart'"
+            },
+            {
+                src: "day6.16.jpg",
+                caption: "Thy dancing in the middle of the students"
+            },
+            {
+                src: "day6.17.jpg",
+                caption: "Picture with the third grade class"
+            },
+            {
+                src: "day6.18.jpg",
+                caption: "Picture with the fifth grade class"
+            },
+            {
+                src: "day6.19.jpg",
+                caption: "Posing with the teachers after music class"
+            },
+            {
+                src: "day6.20.jpg",
+                caption: "Pastor Nicholas giving a devotional to the small group leaders"
+            },
+            {
+                src: "day6.21.jpg",
+                caption: "Pastor Nicholas praying with the small group leaders"
+            },
+            {
+                src: "day6.22.jpg",
+                caption: "Some students at the field"
+            },
+            {
+                src: "day6.23.jpg",
+                caption: "Albert playing with some students in the field"
+            },
+            {
+                src: "day6.24.jpg",
+                caption: "Joseph, Chris and Pastor Nicholas playing soccer with some students in the field"
+            },
+            {
+                src: "day6.25.jpg",
+                caption: "Continuing to sand wood for the Montessori class"
+            },
+            {
+                src: "day6.26.jpg",
+                caption: "Luisa with some students"
+            },
+            {
+                src: "day6.27.jpg",
+                caption: "Pastor Nicholas on the back of Jorge's motorcycle"
+            },
+            {
+                src: "day6.28.jpg",
+                caption: "Marco labeling coffee bags with Isabela"
+            },
+            {
+                src: "day6.29.jpg",
+                caption: "Playing card games at the Casa"
+            },
+        ]
+    }
 ];
 
 const generateBlogPosts = () => {
