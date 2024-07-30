@@ -424,7 +424,7 @@ const blogPosts = [
             activities in the school, we continued to sand wood at the workshop but we finally glimpsed the project
             we had been preparing for! A tray shelf! 😅 Pastor Nicholas and Jorge ended up completing our shelf by
             the end of the day. Then, we had lunch at the Casa, and were sent out to interact with the children as
-            they were leaving. Joseph was able to give his gift to his sponsor child and talk with her at long last.
+            they were leaving. Joseph was able to give his gift to his family's sponsor child and talk with her at long last.
             Marco came with his familiy to the Casa for dinner, so Chris, Joseph, and Luisa played games with Isabela,
             his daughter. Our night together finished out with a cool card game called "ninety-nine" after dinner. We had such 
             a fantastic last full day at Maná, and look forward to tomorrow's activities!
