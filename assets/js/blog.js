@@ -357,12 +357,20 @@ const blogPosts = [
                 caption: "Sacred site where lava flowed down from the 2018 eruption of Fuego"
             },
             {
+                src: "day5.3.5.jpg",
+                caption: "Side of this mountain resembles a woman's face"
+            },
+            {
                 src: "day5.4.jpg",
                 caption: "Brunch at Antigua"
             },
             {
                 src: "day5.5.jpg",
                 caption: "A plate of delicious tacos from brunch at Antigua"
+            },
+            {
+                src: "day5.5.5.jpg",
+                caption: "D'Ann and Luisa sharing the plate of delicious tacos from brunch at Antigua"
             },
             {
                 src: "day5.6.jpg",
