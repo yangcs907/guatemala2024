@@ -591,6 +591,10 @@ const blogPosts = [
                 caption: "Chris, Joseph and Albert huggins students during our send off"
             },
             {
+                src: "day7.6.5.jpg",
+                caption: "Group picture with students in front of the Casa"
+            },
+            {
                 src: "day7.7.jpg",
                 caption: "Group picture in front of the Casa"
             },
