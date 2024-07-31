@@ -548,6 +548,113 @@ const blogPosts = [
                 caption: "Playing card games at the Casa"
             },
         ]
+    },
+    {
+        date: "Tuesday, July 30th, 2024",
+        dayNumber: "Day 7",
+        title: "Last morning in Maná and final night in Guatemala!",
+        content: `
+            God blessed us with a wonderful last full day in Guatemala! The students at Maná sent us off with hugs, 
+            prayers, and singing; the moment was very touching, and we will miss them all so much! We then set off on
+            a short bus ride to San Cayetano, a hotel-restaurant with absolutely beautiful views of the volcano Fuego.
+            Our team took many pictures there after we ate a delicious brunch. Afterwards, we got back on the bus to 
+            go to our hotel, Barcelo, in Guatemala City. Once there, we quickly settled in before taking a walk around the streets.
+            We had a great time seeing the city, visiting some shops, namely a Dollar City and a McDonald's where Mr. Thy
+            got a Grand Mac! Back at the hotel, we had dinner at the sports bar Strikers, watching soccer and the 
+            Olympics. Later in the evening, some of the team relaxed in the hotel hot tub, and reflected on this wonderful
+            trip!
+        `,
+        signature: "Luisa + team",
+        images: [
+            {
+                src: "day7.1.jpg",
+                caption: "Pastor Nicholas praying for the students of Maná"
+            },
+            {
+                src: "day7.2.jpg",
+                caption: "Our team with the students of Maná"
+            },
+            {
+                src: "day7.3.jpg",
+                caption: "Our team with the students at Maná"
+            },
+            {
+                src: "day7.4.jpg",
+                caption: "Thy and Yuchen hugging students during our send off"
+            },
+            {
+                src: "day7.5.jpg",
+                caption: "Luisa, Pastor Nicholas and Bruce hugging students during our send off"
+            },
+            {
+                src: "day7.6.jpg",
+                caption: "Chris, Joseph and Albert huggins students during our send off"
+            },
+            {
+                src: "day7.7.jpg",
+                caption: "Group picture in front of the Casa"
+            },
+            {
+                src: "day7.8.jpg",
+                caption: "Kayla and thy"
+            },
+            {
+                src: "day7.9.jpg",
+                caption: "The volcano Fuego billowing smoke, as seen from our brunch spot at San Cayetano"
+            },
+            {
+                src: "day7.10.jpg",
+                caption: "Brunch at San Cayetano"
+            },
+            {
+                src: "day7.11.jpg",
+                caption: "Luisa and Joseph at brunch with Fuego in the background"
+            },
+            {
+                src: "day7.12.jpg",
+                caption: "Group picture at San Cayetano, with a wonderful backdrop view"
+            },
+            {
+                src: "day7.12.5.jpg",
+                caption: "The beautiful scenery of San Cayetano"
+            },
+            {
+                src: "day7.13.jpg",
+                caption: "Chris, Luisa and Joseph sitting on charis at San Cayetano"
+            },
+            {
+                src: "day7.14.jpg",
+                caption: "Joseph and Luisa on a swing set"
+            },
+            {
+                src: "day7.15.jpg",
+                caption: "Albert, Luisa, Joseph, Chris, Pastor Nicholas and Yuchen taking a selfie"
+            },
+            {
+                src: "day7.16.jpg",
+                caption: "NW team picture with Fuego in the backdrop"
+            },
+            {
+                src: "day7.17.jpg",
+                caption: "Walking the streets of Guatemala City"
+            },
+            {
+                src: "day7.18.jpg",
+                caption: "Posing around Ronald McDonald at Mcdonald's"
+            },
+            {
+                src: "day7.19.jpg",
+                caption: "Thy with his Grand Mac from McDonald's"
+            },
+            {
+                src: "day7.20.jpg",
+                caption: "Dinner at Striker's sports bar at Barcelo Hotel"
+            },
+            {
+                src: "day7.21.jpg",
+                caption: "View of the pool at Barcelo Hotel"
+            },
+        ]
     }
 ];
 
