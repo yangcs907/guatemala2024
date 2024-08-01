@@ -659,6 +659,45 @@ const blogPosts = [
                 caption: "View of the pool at Barcelo Hotel"
             },
         ]
+    },
+    {
+        date: "Wednesday, July 31st, 2024",
+        dayNumber: "Day 8",
+        title: "Leaving Guatemala and the return to Atlanta",
+        content: `
+            We serve such an amazing and awesome God. What a special trip this has been! We started off the day with
+            a delicious complimentary breakfast at the Barcelo hotel. We then headed poolside, where Joseph led us with
+            our last morning devotional, focusing on Ecclesiastes 3:9-13. Afterwards, we packed up loaded onto a bus that took
+            us to Aurora International Airport. After checking in, some of us spent some time at the lounge, where we enjoyed
+            some beverages and a quick lunch. Meanwhile, others spent some time shopping at the airport shops. Our flight departed
+            on time and before long, we were back in Atlanta!
+            <br></br>
+            Overall, this trip has been incredibly special for each of us. We thank you all for your prayers and support, and can't
+            wait to share more about our time in Guatemala with each and every one of you!
+        `,
+        signature: "Chris + team",
+        images: [
+            {
+                src: "day8.1.jpg",
+                caption: "Joseph leading us for our last devotional"
+            },
+            {
+                src: "day8.2.jpg",
+                caption: "Pastor Nicholas, Yuchen, Joseph and Chris at relaxing at the airport lounge"
+            },
+            {
+                src: "day8.3.jpg",
+                caption: "On the airplane about to depart"
+            },
+            {
+                src: "day8.4.jpg",
+                caption: "Beautiful view outside the airplane window"
+            },
+            {
+                src: "day8.5.jpg",
+                caption: "Arrival at the Atlanta airport"
+            },
+        ]
     }
 ];
 
