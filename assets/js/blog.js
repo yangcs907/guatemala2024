@@ -682,10 +682,6 @@ const blogPosts = [
                 caption: "Joseph leading us for our last devotional"
             },
             {
-                src: "day8.2.jpg",
-                caption: "Pastor Nicholas, Yuchen, Joseph and Chris at relaxing at the airport lounge"
-            },
-            {
                 src: "day8.3.jpg",
                 caption: "On the airplane about to depart"
             },
@@ -696,6 +692,10 @@ const blogPosts = [
             {
                 src: "day8.5.jpg",
                 caption: "Arrival at the Atlanta airport"
+            },
+            {
+                src: "day8.6.jpg",
+                caption: "The team back at church from the airport"
             },
         ]
     }
