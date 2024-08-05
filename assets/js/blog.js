@@ -730,7 +730,8 @@ const generateBlogPosts = () => {
         blogDivider.innerHTML = "-------◆◆◆-------";
         blogImages.className = "blogImages";
         blogPost.append(blogDate, blogTitle, blogContent, blogSignature, blogImages, blogDivider);
-        document.getElementById("blogContainer").prepend(blogPost);
+        // document.getElementById("blogContainer").prepend(blogPost);
+        document.getElementById("blogContainer").appendChild(blogPost);
     })
 };
 
